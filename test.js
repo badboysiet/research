@@ -5,3 +5,7 @@ function xyz () {
 function test () {
     return 'test';
 }
+
+const test = () => {
+  return 'hello';
+}
