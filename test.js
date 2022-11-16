@@ -1,7 +1,7 @@
 function xyz () {
-    return 'test';
+    let x= 1;
+    return x;
 }
-
 function test () {
     return 'test';
 }
