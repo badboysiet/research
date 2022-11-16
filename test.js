@@ -1,7 +1,8 @@
 function xyz () {
-    return 'test';
+    let x= 1;
+    return x;
 }
 
 function abc () {
-    return 'abc';
+    return 'abc';    
 }
